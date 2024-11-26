@@ -1,5 +1,5 @@
 # Titanic - Machine Learning Project 🚢
-This project aims to predict passenger survival on the Titanic using **machine learning models** and **feature engineering techniques**. The dataset is sourced from the [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic). Through exploratory data analysis (EDA), feature engineering, and model optimization, we achieved a **Kaggle leaderboard score of 0.78947**.
+This project aims to predict passenger survival on the Titanic using **machine learning models** and **feature engineering techniques**. The dataset is sourced from the [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic). Through exploratory data analysis (EDA), feature engineering, and model optimization, achieved a **Kaggle leaderboard score of 0.78947**.
 
 ---
 
@@ -8,12 +8,6 @@ This project aims to predict passenger survival on the Titanic using **machine l
 2. [Workflow](#workflow)
 3. [Key Insights](#key-insights)
 4. [Models and Performance](#models-and-performance)
-5. [How to Run the Code](#how-to-run-the-code)
-6. [Files in the Repository](#files-in-the-repository)
-7. [Dependencies](#dependencies)
-8. [Acknowledgments](#acknowledgments)
-9. [License](#license)
-
 ---
 
 ## **Project Overview**
