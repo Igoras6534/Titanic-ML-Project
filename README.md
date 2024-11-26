@@ -8,6 +8,7 @@ This project aims to predict passenger survival on the Titanic using **machine l
 2. [Workflow](#workflow)
 3. [Key Insights](#key-insights)
 4. [Models and Performance](#models-and-performance)
+5. [How to Run the Code](#how-to-run-the-code) 
 ---
 
 ## **Project Overview**
@@ -152,8 +153,28 @@ These observations were used to guide feature engineering and model development.
 | K-Nearest Neighbors | 85.81%               | 78.77%                  | 81.18%              |
 | CatBoost            | 83.85%               | 80.45%                  | 83.85%              |
 
-![Performance Chart]
 ![image](https://github.com/user-attachments/assets/4afc0f2a-ebde-463a-b219-d7ffd2c148e9)
 
 ![image](https://github.com/user-attachments/assets/36b6c1a8-6730-4417-aa13-47d89b0feb45)
 
+
+## **5. How to Run the Code**
+
+Follow these steps to run the project on your local machine:
+
+### **1. Clone the Repository**=
+
+Clone the repository to your local system using the following command:
+```bash
+git clone https://github.com/yourusername/Titanic-ML-Project.git
+cd Titanic-ML-Project
+```
+Ensure you have Python 3.8+ installed. To install the required libraries, run:
+```bash
+pip install -r requirements.txt
+```
+Launch Jupyter Notebook or Jupyter Lab and open the notebook:
+```bash
+jupyter notebook Titanic-Project-EDA-ML.ipynb
+```
+Now you're ready to run the notebook.
