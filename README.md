@@ -166,7 +166,7 @@ Follow these steps to run the project on your local machine:
 
 Clone the repository to your local system using the following command:
 ```bash
-git clone https://github.com/yourusername/Titanic-ML-Project.git
+git clone https://github.com/Igoras6534/Titanic-ML-Project.git
 cd Titanic-ML-Project
 ```
 Ensure you have Python 3.8+ installed. To install the required libraries, run:
