@@ -169,6 +169,8 @@ Clone the repository to your local system using the following command:
 git clone https://github.com/Igoras6534/Titanic-ML-Project.git
 cd Titanic-ML-Project
 ```
+Create a folder called "submissions"
+
 Ensure you have Python 3.8+ installed. To install the required libraries, run:
 ```bash
 pip install -r requirements.txt
