@@ -158,11 +158,11 @@ These observations were used to guide feature engineering and model development.
 ![image](https://github.com/user-attachments/assets/36b6c1a8-6730-4417-aa13-47d89b0feb45)
 
 
-## **5. How to Run the Code**
+## **How to Run the Code**
 
 Follow these steps to run the project on your local machine:
 
-### **1. Clone the Repository**=
+### **1. Clone the Repository**
 
 Clone the repository to your local system using the following command:
 ```bash
